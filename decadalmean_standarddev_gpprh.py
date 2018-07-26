@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 12 13:44:24 2018
 
-@author: Rubus occidentalis
+@author: Ceci Silberstein
 """
 
 import os
